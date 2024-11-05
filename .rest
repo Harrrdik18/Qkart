@@ -1,0 +1,8 @@
+POST http://localhost:8082/api/v1/cart
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNzc3Nzc3MiLCJpYXQiOjE3MDcxMzQwMjksImV4cCI6MTcwNzE1NTYyOX0.hfV0rgs6Szbooad7NWSGLA-y5c2Oa9Wa1T03GRCDkIA
+Content-Type: application/json
+
+{
+  "productId": "BW0jAAeDJmlZCF8i",
+  "qty": 1
+}
